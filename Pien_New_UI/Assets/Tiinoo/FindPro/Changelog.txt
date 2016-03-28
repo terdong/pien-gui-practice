@@ -1,0 +1,24 @@
+Current Version: 1.1.1
+
+---------------------------------
+1.1.1
+- Find Asset References:
+	- FIX: TargetType and ValueType are not defined in a namespace. (thx Daniel)
+
+1.1.0
+- Find Asset References:
+	- NEW: Add support for searching Texture and ScriptableObjects.
+	- NEW: Add support for searching public variable value. (Integer, Float, String, Enum)
+	- FIX: Issue of searching references of prefabs.
+
+1.0.2
+- Replace the folder 'Assets/FindPro' with 'Assets/Tiinoo/FindPro'
+- Replace the menu item 'Window -> FindPro' with 'Windows -> Tiinoo > FindPro'
+- The project is compatible with version Unity 4.5.5 and 5.0.0
+
+1.0.1
+- Project updated to Unity 5.1.0
+- Extract the version history from Readme.pdf and saved as Changelog.txt
+
+1.0.0
+- Initial Release
